@@ -1,0 +1,9 @@
+--2020-03-01 01:28:16--  https://s3.amazonaws.com/authy-electron-repository-production/authy/stable/1.8.0/darwin/x64/Authy%20Desktop-1.8.0.dmg
+正在解析主机 s3.amazonaws.com (s3.amazonaws.com)... 52.216.237.141
+正在连接 s3.amazonaws.com (s3.amazonaws.com)|52.216.237.141|:443... 已连接。
+已发出 HTTP 请求，正在等待回应... 200 OK
+长度：71319606 (68M) [binary/octet-stream]
+正在保存至: “Authy Desktop-1.8.0.dmg”
+
+Authy Desktop-1.8.0   3%[                    ]   2.26M  1.68KB/s  用时 8m 21s  
+
